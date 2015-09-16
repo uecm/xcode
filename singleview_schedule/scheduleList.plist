@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>week_1</key>
+	<dict>
+		<key>Monday</key>
+		<array>
+			<dict>
+				<key>order</key>
+				<string>1</string>
+				<key>name</key>
+				<string>Теорія ймовірностей та матстатистика</string>
+				<key>room</key>
+				<string>5.201</string>
+				<key>type</key>
+				<string>lection</string>
+				<key>teacher</key>
+				<string>Ляшенко Я. Г.</string>
+			</dict>
+			<dict>
+				<key>order</key>
+				<string>2</string>
+				<key>name</key>
+				<string>Основи програмної інженерії</string>
+				<key>room</key>
+				<string>3.327</string>
+				<key>type</key>
+				<string>practice</string>
+				<key>teacher</key>
+				<string>Безкоровайна Ю. М.</string>
+			</dict>
+		</array>
+		<key>Tuesday</key>
+		<array>
+			<dict>
+				<key>order</key>
+				<string>4</string>
+				<key>name</key>
+				<string>Основи програмної інженерії</string>
+				<key>room</key>
+				<string>6.200</string>
+				<key>type</key>
+				<string>lection</string>
+				<key>teacher</key>
+				<string>Сидоров М. О.</string>
+			</dict>
+			<dict>
+				<key>order</key>
+				<string>5</string>
+				<key>name</key>
+				<string>Архітектура комп&apos;ютера</string>
+				<key>room</key>
+				<string>6.200</string>
+				<key>type</key>
+				<string>lection</string>
+				<key>teacher</key>
+				<string>Романов Є. І.</string>
+			</dict>
+		</array>
+		<key>Wednesday</key>
+		<array>
+			<dict>
+				<key>order</key>
+				<string>2</string>
+				<key>name</key>
+				<string>Лінійна алегбра та аналітична геометрія</string>
+				<key>room</key>
+				<string>5.201</string>
+				<key>type</key>
+				<string>lection</string>
+				<key>teacher</key>
+				<string>Гришко О. М.</string>
+			</dict>
+			<dict>
+				<key>order</key>
+				<string>3</string>
+				<key>name</key>
+				<string>Дискретні структури</string>
+				<key>room</key>
+				<string>3.218</string>
+				<key>type</key>
+				<string>practice</string>
+				<key>teacher</key>
+				<string>?????</string>
+			</dict>
+			<dict>
+				<key>order</key>
+				<string>4</string>
+				<key>name</key>
+				<string>Архітектура комп&apos;ютера</string>
+				<key>room</key>
+				<string>6.104а</string>
+				<key>type</key>
+				<string>practice</string>
+				<key>teacher</key>
+				<string>Скалова В. А.</string>
+			</dict>
+		</array>
+		<key>Thursday</key>
+		<array>
+			<dict>
+				<key>order</key>
+				<string>1</string>
+				<key>name</key>
+				<string>Основи програмної інженерії</string>
+				<key>room</key>
+				<string>6.104а</string>
+				<key>type</key>
+				<string>practice</string>
+				<key>teacher</key>
+				<string>Безкоровайна Ю. М.</string>
+			</dict>
+			<dict>
+				<key>order</key>
+				<string>2</string>
+				<key>name</key>
+				<string>Архітектура комп&apos;ютера</string>
+				<key>room</key>
+				<string>6.104а</string>
+				<key>type</key>
+				<string>practice</string>
+				<key>teacher</key>
+				<string>Скалова В. А.</string>
+			</dict>
+			<dict>
+				<key>order</key>
+				<string>3</string>
+				<key>name</key>
+				<string>Дискретні структури</string>
+				<key>room</key>
+				<string>6.200</string>
+				<key>type</key>
+				<string>lection</string>
+				<key>teacher</key>
+				<string>Кривий С. Л.</string>
+			</dict>
+			<dict>
+				<key>order</key>
+				<string>4</string>
+				<key>name</key>
+				<string>Фізичне виховання</string>
+				<key>room</key>
+				<string>СК</string>
+				<key>type</key>
+				<string>practice</string>
+				<key>teacher</key>
+				<string>Івахін В. А.</string>
+			</dict>
+		</array>
+		<key>Friday</key>
+		<array>
+			<dict>
+				<key>order</key>
+				<string>1</string>
+				<key>name</key>
+				<string>Об&apos;єктно-орієнтоване програмування</string>
+				<key>room</key>
+				<string>6.104а</string>
+				<key>type</key>
+				<string>practice</string>
+				<key>teacher</key>
+				<string>Гарнієць А. А.</string>
+			</dict>
+			<dict>
+				<key>order</key>
+				<string>2</string>
+				<key>name</key>
+				<string>Українська мова</string>
+				<key>room</key>
+				<string>4.202</string>
+				<key>type</key>
+				<string>lection</string>
+				<key>teacher</key>
+				<string>Добровольська Л. А.</string>
+			</dict>
+			<dict>
+				<key>order</key>
+				<string>3</string>
+				<key>name</key>
+				<string>Об&apos;єктно-орієнтоване програмування</string>
+				<key>room</key>
+				<string>6.200</string>
+				<key>type</key>
+				<string>lection</string>
+				<key>teacher</key>
+				<string>Крамар Ю. М.</string>
+			</dict>
+		</array>
+		<key>Saturday</key>
+		<array/>
+		<key>Sunday</key>
+		<array/>
+	</dict>
+	<key>week_2</key>
+	<dict>
+		<key>Monday</key>
+		<array>
+			<dict>
+				<key>order</key>
+				<string>3</string>
+				<key>name</key>
+				<string>Об&apos;єктно-орієнтоване програмування</string>
+				<key>room</key>
+				<string>6.110б</string>
+				<key>type</key>
+				<string>practice</string>
+				<key>teacher</key>
+				<string>Гарнієць А. А.</string>
+			</dict>
+			<dict>
+				<key>order</key>
+				<string>4</string>
+				<key>name</key>
+				<string>Лінійна алегбра та аналітична геометрія</string>
+				<key>room</key>
+				<string>6.201</string>
+				<key>type</key>
+				<string>lection</string>
+				<key>teacher</key>
+				<string>Гришко О. М.</string>
+			</dict>
+			<dict>
+				<key>order</key>
+				<string>5</string>
+				<key>name</key>
+				<string>Теорія ймовірностей та матстатистика</string>
+				<key>room</key>
+				<string>6.201</string>
+				<key>type</key>
+				<string>lection</string>
+				<key>teacher</key>
+				<string>Ляшенко Я. Г.</string>
+			</dict>
+		</array>
+		<key>Tuesday</key>
+		<array>
+			<dict>
+				<key>order</key>
+				<string>4</string>
+				<key>name</key>
+				<string>Основи програмної інженерії</string>
+				<key>room</key>
+				<string>6.200</string>
+				<key>type</key>
+				<string>lection</string>
+				<key>teacher</key>
+				<string>Сидоров М. О.</string>
+				<key>index</key>
+				<string>0</string>
+			</dict>
+			<dict>
+				<key>order</key>
+				<string>5</string>
+				<key>name</key>
+				<string>Архітектура комп&apos;ютера</string>
+				<key>room</key>
+				<string>6.200</string>
+				<key>type</key>
+				<string>lection</string>
+				<key>teacher</key>
+				<string>Романов Є. І.</string>
+				<key>index</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>order</key>
+				<string>6</string>
+				<key>name</key>
+				<string>Основи програмної інженерії</string>
+				<key>room</key>
+				<string>6.104а</string>
+				<key>type</key>
+				<string>practice</string>
+				<key>teacher</key>
+				<string>Безкоровайна Ю. М.</string>
+				<key>index</key>
+				<string>2</string>
+			</dict>
+		</array>
+		<key>Wednesday</key>
+		<array>
+			<dict>
+				<key>order</key>
+				<string>2</string>
+				<key>name</key>
+				<string>Українська мова</string>
+				<key>room</key>
+				<string>8.1002</string>
+				<key>type</key>
+				<string>practice</string>
+				<key>teacher</key>
+				<string>Дячук Т. М.</string>
+			</dict>
+			<dict>
+				<key>order</key>
+				<string>3</string>
+				<key>name</key>
+				<string>Дискретні структури</string>
+				<key>room</key>
+				<string>3.309</string>
+				<key>type</key>
+				<string>practice</string>
+				<key>teacher</key>
+				<string>?????</string>
+			</dict>
+			<dict>
+				<key>order</key>
+				<string>4</string>
+				<key>name</key>
+				<string>Архітектура комп&apos;ютера</string>
+				<key>room</key>
+				<string>6.104а</string>
+				<key>type</key>
+				<string>practice</string>
+				<key>teacher</key>
+				<string>Скалова В. А.</string>
+			</dict>
+		</array>
+		<key>Thursday</key>
+		<array>
+			<dict>
+				<key>order</key>
+				<string>3</string>
+				<key>name</key>
+				<string>Дискретні структури</string>
+				<key>room</key>
+				<string>6.200</string>
+				<key>type</key>
+				<string>lection</string>
+				<key>teacher</key>
+				<string>Кривий С. Л.</string>
+			</dict>
+			<dict>
+				<key>order</key>
+				<string>4</string>
+				<key>name</key>
+				<string>Фізичне виховання</string>
+				<key>room</key>
+				<string>СК</string>
+				<key>type</key>
+				<string>practice</string>
+				<key>teacher</key>
+				<string>Івахін В. А.</string>
+			</dict>
+			<dict>
+				<key>order</key>
+				<string>5</string>
+				<key>name</key>
+				<string>Лінійна алгебра та аналітична геометрія</string>
+				<key>room</key>
+				<string>6.211</string>
+				<key>type</key>
+				<string>practice</string>
+				<key>teacher</key>
+				<string>Гришко О. М.</string>
+			</dict>
+		</array>
+		<key>Friday</key>
+		<array>
+			<dict>
+				<key>order</key>
+				<string>4</string>
+				<key>name</key>
+				<string>Теорія ймовірностей та матстатистика</string>
+				<key>room</key>
+				<string>3.303</string>
+				<key>type</key>
+				<string>practice</string>
+				<key>teacher</key>
+				<string>Ляшенко Я. Г.</string>
+			</dict>
+			<dict>
+				<key>order</key>
+				<string>6</string>
+				<key>name</key>
+				<string>Основи програмної інженерії</string>
+				<key>room</key>
+				<string>3.303</string>
+				<key>type</key>
+				<string>practice</string>
+				<key>teacher</key>
+				<string>Безкоровайна Ю. М.</string>
+			</dict>
+		</array>
+		<key>Saturday</key>
+		<array/>
+		<key>Sunday</key>
+		<array>
+			<dict>
+				<key>order</key>
+				<string>4</string>
+				<key>name</key>
+				<string>Основи програмної інженерії</string>
+				<key>room</key>
+				<string>6.200</string>
+				<key>type</key>
+				<string>lection</string>
+				<key>teacher</key>
+				<string>Сидоров М. О.</string>
+				<key>index</key>
+				<string>0</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
